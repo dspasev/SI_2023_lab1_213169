@@ -1,0 +1,25 @@
+$ git log
+commit 9c353ef33e240a2a1ebd439e0c1dc4788ae12c8f (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: dspasev <130288676+dspasev@users.noreply.github.com>
+Date:   Sun Apr 9 15:08:52 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 3379f20b6e0572e1dcf9ebd27dfa10bcb535b917
+Merge: 7f07028 c7d99ae
+Author: dspasev <130288676+dspasev@users.noreply.github.com>
+Date:   Sun Apr 9 15:14:13 2023 +0200
+
+    Merge branch 'bug2'
+
+commit c7d99aeec2f4be016174edfe7869ea14e1008a24 (origin/bug2, bug2)
+Author: dspasev <130288676+dspasev@users.noreply.github.com>
+Date:   Sun Apr 9 15:07:10 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 7f0702814a897d93acb978c9a31d6c7d68f06c5a (origin/bug1, bug1)
+Author: dspasev <130288676+dspasev@users.noreply.github.com>
+Date:   Sun Apr 9 15:00:08 2023 +0200
+:
+
